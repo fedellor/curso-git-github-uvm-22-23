@@ -1,0 +1,4 @@
+# review.txt
+El curso fue bastante ameno para la gran cantiada de cosas que dimos.Puesto que en unos dias ya dimos mas que en lo que llevamos de curso en programación.
+Asique yo por mi parte salgo contento con todo lo aprendido entre o no, que los conocimientos ya no me los quita nadie.
+print("Gracias :) ")
