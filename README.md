@@ -13,3 +13,7 @@ Introduce tu nombre y apellidos:
 ## Departamento:
 
 Indica a qué departamento estás asociado: 
+
+## Repositorio propio
+
+Indica el enlace a tu repositorio de desarrollo propio:
