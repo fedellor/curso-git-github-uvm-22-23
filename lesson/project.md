@@ -46,6 +46,6 @@ Instrucciones:
 2. Crear una brach denominada `devel-iniciales`, donde `iniciales` tiene que ser sustituido por las iniciales de tu nombre y tus apellidos (en minúscula).
 3. Editar el `README.md` como se indica en el mismo
 4. Establecer dicha rama como rama de trabajo actual
-5. **Sólo para los que realizaron el curso de Python**: añadir los archivos de los tres notebooks realizados a un directorio llamado `notebooks`. Añadir los archivos del proyecto final (si se ha realizado a parte) a un directorio llamado `project`.
-6. Crea un archivo de texto llamado `review.txt` donde incluyas una pequeña valoración de los cursos en los que hayas participado hasta ahora.
-7. Realiza una pull request desde la rama de `devel-iniciales` al repositorio original
+5. Añadir los archivos de los tres notebooks realizados a un directorio llamado `notebooks`. Añadir los archivos del proyecto final (si se ha realizado a parte) a un directorio llamado `project`.
+6. Crear un archivo de texto llamado `review.txt` donde incluyas una pequeña valoración de los cursos en los que hayas participado hasta ahora.
+7. Realizar una pull request desde la rama de `devel-iniciales` al repositorio original
